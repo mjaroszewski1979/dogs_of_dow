@@ -26,7 +26,7 @@ def get_data(symbol):
     total = []
     nums = range(2, 252)
     for x in nums:
-        if data['Close'][1] > data['Close'][x]:
+        if data['Adj Close'][-1] > data['Adj Close'][-x]:
             result = 1
         else:
             result = -1
