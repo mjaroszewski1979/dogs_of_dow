@@ -3,13 +3,13 @@
 --------------------------------------------------
 
 ### Features
-* CSS Flexbox applied to simplify complex layout patterns
 * Fully responsive web design &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/tablet.png">
+* CSS Flexbox applied to simplify complex layout patterns
+* Implementing Jinja2 extensible templating engine for automatic HTML escaping to prevent cross-site scripting (XSS) attacks &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/security.png">
 * Embedded Font Awesome icons
 * Advanced HTML and CSS minification process aims to reduce webpage loading speed &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/speed.png">
 * CSS custom properties for fast and forward-looking design 
 * Moving the fetching data function to a background thread to avoid unnecessary delays during request handling &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/process.png">
-* Implementing Jinja2 extensible templating engine for automatic HTML escaping to prevent cross-site scripting (XSS) attacks
 
 
 
